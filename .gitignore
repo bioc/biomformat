@@ -1,0 +1,14 @@
+*.log
+*.Rout
+biomformat_1.38.1.tar.gz
+biomformat_1.38.2.tar.gz
+biomformat_1.39.10.tar.gz
+biomformat_1.39.11.tar.gz
+biomformat_1.39.14.tar.gz
+biomformat_1.39.15.tar.gz
+biomformat_1.39.5.tar.gz
+biomformat_1.39.6.tar.gz
+biomformat_1.39.7.tar.gz
+biomformat_1.39.8.tar.gz
+biomformat_1.39.9.tar.gz
+/biomformat.Rcheck
